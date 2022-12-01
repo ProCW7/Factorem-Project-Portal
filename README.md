@@ -36,4 +36,4 @@ MySQL(8.1)
 
 
 - DOCUMENTATION
-[shorturl.at/brCE1](shorturl.at/brCE1)
+[https://shorturl.at/brCE1](https://shorturl.at/brCE1)
